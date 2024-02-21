@@ -15,6 +15,9 @@ The Datasets directory contains the "MaizeDiseaseImage_Classification_Dataset_Gh
 
 Each directory contains images corresponding to the respective maize crop diseases
 
+#### Sample Images
+![alt text](hhttps://github.com/Fortune-Labs/Comparative_Analysis_of_Tiny_Machine-Learning_Models_for_Maize_Crop_Disease_Identification/blob/master/images/leaves.png?raw=true)
+
 ## Models
 The models directory encompasses six subdirectories, each dedicated to a specific tiny machine learning model:
 
