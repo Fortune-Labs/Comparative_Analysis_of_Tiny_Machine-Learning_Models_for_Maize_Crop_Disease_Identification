@@ -1,1 +1,1 @@
-# Comparative_Analysis_of_Tiny_Machine-Learning_Models_for_Maize_Crop_Disease_Identification
+# Comparative Analysis of Tiny Machine Learning Models for Maize Crop Disease Identification
